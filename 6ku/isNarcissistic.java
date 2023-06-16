@@ -30,8 +30,8 @@ public class isNarcissistic {
     }
 
     public static void main(String[] args) {
-        System.out.println(isNarcissistic(153));
-        System.out.println(isNarcissistic(1652));
+        System.out.println(Solution(153));
+        System.out.println(Solution(1652));
     }
 
 }
