@@ -15,9 +15,9 @@ Error checking for text strings or other invalid inputs is not required,
 only valid positive non-zero integers will be passed into the function. 
 */
 
-public class NumberUtils {
+public class isNarcissistic {
 
-    public static boolean isNarcissistic(int number) {
+    public static boolean Solution(int number) {
         // TODO replace with your code
         String num = Integer.toString(number);
         int sum = 0;
